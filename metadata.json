@@ -1,0 +1,7 @@
+{
+  "name": "I-Verify",
+  "description": "An AI-powered inspection tool to check medicine authenticity, identify plant diseases, and advise on plant watering.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
